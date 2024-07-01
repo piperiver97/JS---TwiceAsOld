@@ -1,0 +1,18 @@
+{
+  "name": "js---twiceasold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "sass": "sass ./src/sass/style.scss ./public/css/style.css",
+    "sass-w": "sass --watch ./src/sass/style.scss ./public/css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.6",
+    "vitest": "^1.6.0"
+  }
+}
